@@ -1,4 +1,6 @@
 # Welcome To Manan Bhatt's Personal Website!
+![Image](headshot.jpg)
+
 UMD '23 - Computer and Data Science Student
 
 ## My Story
