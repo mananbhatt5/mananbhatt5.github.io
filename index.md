@@ -24,3 +24,4 @@ My coursework and extracurricular activities have led to me creating some pretty
 ## Other Notable Links
 - Here is my [LinkedIn](https://www.linkedin.com/in/manan-bhatt-ds626/).
 - You can email me at bhattm740@gmail.com.
+- My resume is linked [here](https://docs.google.com/document/d/1fG9V7G6QEO_PlapIcJS6B1bXUWcG46vS/view).
