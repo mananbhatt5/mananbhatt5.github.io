@@ -1,6 +1,6 @@
 # Welcome To Manan Bhatt's Personal Website!
+## Building Software With A Purpose
 UMD '23 - Computer and Data Science Student
-
 ## My Story
 Technology has driven my life for as long as I can remember. Upon discovering Microsoft Excel at age 9, I would often grab random statistics off the internet and make different graphs based on the stats. Unknowingly, this marked the start of my passion for Technology, Statistics, and most importantly, Data Science.
 
