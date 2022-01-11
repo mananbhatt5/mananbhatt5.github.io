@@ -17,9 +17,10 @@ Another one of my defining characteristics is my love for music. My favorite art
 
 ## My Projects
 My coursework and extracurricular activities have led to me creating some pretty awesome projects!
-1. For the Final in my Data Science class, I worked with two of my close friends and classmates to pull data from the 2021 NFL Season to create a ML Model which simulates NFL games and predicts their scores! You can find that [here](https://mananbhatt-cmsc320.github.io/).
-2. For my Machine Learning Internship at NYC/Tel Aviv based startup excelHERate, I created a Resume Parsing Machine, which takes resumes in .docx format and generates a file containing Name, Email, Skills, and Graduation Year. You can find that [here](https://github.com/mananbhatt5/excelHERate).
-3. For my Machine Learning Internship at Somerset, NJ startup Caresoft, Inc. I built a Sentiment Analysis Machine, which analyzes TripAdvisor reviews of a Jersey City, NJ hotel, and determined how much sentiment each review was written with, as well as each review's magnitude. You can find that [here](https://github.com/mananbhatt5/caresoft-sentiment-analysis-machine-2020).
+1. **Man, I Love Football!**: For the Final in my Data Science class, I worked with two of my close friends and classmates to pull data from the 2021 NFL Season to create a ML Model which simulates NFL games and predicts their scores! You can find that [here](https://mananbhatt-cmsc320.github.io/).
+2. **ChatBot**: (IN PROGRESS) Built an automated ChatBot which responds to user input on a GUI. You can find that [here](https://github.com/mananbhatt5/ChatBot).
+3. **Resume Parsing Machine**: For my Machine Learning Internship at NYC/Tel Aviv based startup excelHERate, I created a Resume Parsing Machine, which takes resumes in .docx format and generates a file containing Name, Email, Skills, and Graduation Year. You can find that [here](https://github.com/mananbhatt5/excelHERate).
+4. **Sentiment Analysis Machine**: For my Machine Learning Internship at Somerset, NJ startup Caresoft, Inc. I built a Sentiment Analysis Machine, which analyzes TripAdvisor reviews of a Jersey City, NJ hotel, and determined how much sentiment each review was written with, as well as each review's magnitude. You can find that [here](https://github.com/mananbhatt5/caresoft-sentiment-analysis-machine-2020).
 
 ## Other Notable Links
 - Here is my [LinkedIn](https://www.linkedin.com/in/manan-bhatt-ds626/).
