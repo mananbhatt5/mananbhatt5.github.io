@@ -13,7 +13,7 @@ Currently, I teach Data Science with Python as the Director of Tech at TAMID. I 
 This website is basically my digital resume, where I showcase all of my projects, and just allow people to know more about me. I am a very open person, so for those curious about me, feel free to browse through this website, so you can learn more about me!
 
 ## More About Me
-Another one of my defining characteristics is my love for music. My favorite artists include Kanye West, Kendrick Lamar, Tyler The Creator, Frank Ocean, Freddie Gibbs, Jay-Z, Nas, ATCQ, and many more. I also am very outgoing, as my friends will all say. I enjoy dancing, singing, playing and watching Football (go Giants!) and Basketball (go Knicks!), and just having a good time!
+Another one of my defining characteristics is my love for music. My favorite artists include Kanye West, Kendrick Lamar, Tyler The Creator, Frank Ocean, Freddie Gibbs, Jay-Z, Nas, ATCQ, MF DOOM, and many more. I also am very outgoing, as my friends will all say. I enjoy dancing, singing, playing and watching Football (go Giants!) and Basketball (go Knicks!), and just having a good time!
 
 ## My Projects
 My coursework and extracurricular activities have led to me creating some pretty awesome projects!
