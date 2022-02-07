@@ -15,6 +15,11 @@ This website is basically my digital resume, where I showcase all of my projects
 ## More About Me
 Another one of my defining characteristics is my love for music. My favorite artists include Kanye West, Kendrick Lamar, Tyler The Creator, Frank Ocean, Freddie Gibbs, Jay-Z, Nas, ATCQ, MF DOOM, and many more. I also am very outgoing, as my friends will all say. I enjoy dancing, singing, playing and watching Football (go Giants!) and Basketball (go Knicks!), and just having a good time!
 
+## My Experience
+- **Summer 2022**: Incoming Data Engineering Intern at [Fidelity Investments](https://www.fidelity.com/).
+- **Summer 2021**: Machine Learning Intern at Tel Aviv AI Startup [excelHERate](https://www.excelherate.net/).
+- **Summer 2020**: Machine Learning Intern at Somerset, NJ Startup [Caresoft Inc](https://www.caresoftinc.com/).
+
 ## My Projects
 My coursework and extracurricular activities have led to me creating some pretty awesome projects!
 1. **Man, I Love Football!**: For the Final in my Data Science class, I worked with two of my close friends and classmates to pull data from the 2021 NFL Season to create a ML Model which simulates NFL games and predicts their scores! You can find that [here](https://mananbhatt-cmsc320.github.io/).
