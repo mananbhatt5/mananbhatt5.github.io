@@ -8,14 +8,15 @@ When I was having my existential crisis in High School trying to decide what I w
 
 Upon my admission into UMD, I saw their Data Science track and was sold. I dove deeper into the coursework and realized I can do exactly that - bridge CS and Stats. I got heavily involved in an organization on campus called TAMID, in which I can do Data Science consulting for Startups in Israel. I also worked hard in all my classes, and recieved ML based internships in my first two years of college.
 
-Recenttly, I taught Data Science with Python as the Director of Tech at TAMID. I also have full-stack experience with Python and Flask, and DB experience with Mongo, SQL, and Firebase. I can also code in Java, C, R, and MATLAB. Being the young man from Jersey I am, I hope to one day work as a Data Scientist or Software Engineer in New York City, either at a bank or a startup, and I'll do whatever it takes for my dreams to come true.
+Recently, I taught Data Science with Python as the Director of Tech at TAMID. I also have full-stack experience with Python and Flask, and DB experience with Mongo, SQL, and Firebase. I can also code in Java, C, R, and MATLAB. I also have experience within the NLP field and with OpenAI from past consulting projects. 
 
 This website is basically my digital resume, where I showcase all of my projects, and just allow people to know more about me. I am a very open person, so for those curious about me, feel free to browse through this website, so you can learn more about me!
 
 ## More About Me
-Another one of my defining characteristics is my love for music. My favorite artists include Kanye West, Kendrick Lamar, Tyler The Creator, Frank Ocean, Freddie Gibbs, Jay-Z, Nas, ATCQ, MF DOOM, Anderson .Paak, and many more. I also am very outgoing, as my friends will all say. I enjoy dancing, singing, playing and watching Football (go Giants!) and Basketball (go Knicks!), and just having a good time!
+Another one of my defining characteristics is my love for music. My favorite artists include Kendrick Lamar, Tyler The Creator, Frank Ocean, Freddie Gibbs, Jay-Z, Nas, ATCQ, MF DOOM, Anderson .Paak, and many more. I also am very outgoing, as my friends will all say. I enjoy dancing, singing, playing and watching Football (go Giants!) and Basketball (go Knicks!), and just having a good time!
 
 ## My Experience
+- **Starting August 2023**: Software Engineering Analyst at [Accenture Federal Services](https://www.accenture.com/us-en/industries/afs-index).
 - **Summer 2022**: Data Engineering Intern at [Fidelity Investments](https://www.fidelity.com/).
 - **Summer 2021**: Machine Learning Intern at Tel Aviv AI Startup [excelHERate](https://www.excelherate.net/).
 - **Summer 2020**: Machine Learning Intern at Somerset, NJ Startup [Caresoft Inc](https://www.caresoftinc.com/).
